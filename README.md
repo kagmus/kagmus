@@ -19,11 +19,9 @@
 
 kagmus is a kernel-enforced runtime for autonomous AI agents. What Kubernetes is to services, Kagmus is to agents. Run entire fleets against production code and live systems, without ever handing them the keys. The boundary is the kernel, not the prompt, so it holds whether the agent knows it's there or not.
 
+https://github.com/user-attachments/assets/b22ec90c-0509-4f19-b50f-c93279b23d28
+
 <p align="center">
-  <a href="media/kagmus-rmrf-interactive.mp4">
-    <img src="media/kagmus-rmrf-interactive-poster.jpg" alt="Claude Code launched via ws branch sh --tty runs find /wing/dev-box -mindepth 1 -delete inside an isolated Kagmus branch; deletions stay in the branch and the base remains untouched" width="800" />
-  </a>
-  <br />
   <em><code>ws branch sh --tty</code> + <code>find /wing/dev-box -mindepth 1 -delete</code>: branch emptied, checklist updated, base untouched, nothing promoted.</em>
 </p>
 
